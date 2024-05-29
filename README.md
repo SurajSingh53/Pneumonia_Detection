@@ -1,4 +1,4 @@
 # chest_xray_webapp
 Streamlit Web App for Pneumonia Chest XRay Detection.
 
-**Deployed Web App here: https://share.streamlit.io/heytanay/chest_xray_webapp/main/app.py**
+**Deployed Web App here: https://pneumoniadetection-e8b3aaamak2ae49utxawy7.streamlit.app/**
